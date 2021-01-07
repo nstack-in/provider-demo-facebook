@@ -4,7 +4,7 @@ class MyData {
       "id": 1,
       "name": "Marchelle",
       "email": "mailward0@hibu.com",
-      "address": "57 Bowman Drive"
+      "address": "57 Bowman Drive",
     },
     {
       "id": 2,
